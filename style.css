@@ -21,3 +21,6 @@ div p
 .artigo autor{
     font-weight: bold;
 }
+article{
+    display: flex;
+}
